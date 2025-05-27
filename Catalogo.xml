@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<catalogo>
+  <producto>
+    <nombre>Canastas de Suelo</nombre>
+    <precio>180</precio>
+  </producto>
+  <producto>
+    <nombre>Canasta de pared</nombre>
+    <precio>45</precio>
+  </producto>
+</catalogo>
