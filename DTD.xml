@@ -1,0 +1,10 @@
+<!ELEMENT inventario (Canastas, Patrocinadores)>
+ 
+<!ELEMENT Canastas (ubicacion, usuario, Marca)>
+<!ELEMENT ubicacion (#PCDATA)>
+<!ELEMENT usuario (#PCDATA)>
+<!ELEMENT Marca (#PCDATA)>
+ 
+<!ELEMENT Patrocinadores (Web, usuario, Nombre)>
+<!ELEMENT Web (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<inventario>
+    <Canastas>
+        <ubicacion>Decathlon</ubicacion>
+        <usuario>Rodrigo González</usuario>
+        <Marca>Kipsta</Marca>
+    </Canastas>
+    <Patrocinadores>
+        <Web>https://pradorey.es/</Web>
+        <usuario>Rodrigo González</usuario>
+        <Nombre>Prado Rey</Nombre>
+    </Patrocinadores>
+</inventario>
